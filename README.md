@@ -3,7 +3,7 @@
 ## Get it
 
 ```bash
-go get -u github.com/tslamic/go-oauth2-firestore
+go get -u github.com/royge/go-oauth2-firestore
 ```
 
 ## Use it
