@@ -1,4 +1,4 @@
-module github.com/tslamic/go-oauth2-firestore
+module github.com/royge/go-oauth2-firestore
 
 go 1.17
 
