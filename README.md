@@ -15,7 +15,7 @@ import (
 	"cloud.google.com/go/firestore"
 	"context"
 	firebase "firebase.google.com/go"
-	"github.com/tslamic/go-oauth2-firestore"
+	"github.com/royge/go-oauth2-firestore"
 	"gopkg.in/oauth2.v3/manage"
 	"log"
 	"os"
